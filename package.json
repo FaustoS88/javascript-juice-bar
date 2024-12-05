@@ -1,0 +1,15 @@
+{
+    "name": "javascript-juice-bar",
+    "version": "1.0.0",
+    "description": "Solution for the Juice Bar exercise including juice mixing time calculation, lime cutting optimization, and shift management.",
+    "main": "src/juiceBar.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": ["javascript", "exercise", "algorithms"],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
